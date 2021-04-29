@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+// import "../../public/css/icon-heroku.css";
 
 export default class Projects extends Component {
   render() {
@@ -24,28 +25,29 @@ export default class Projects extends Component {
               >
                 <div
                   className='project'
-                  style={{ backgroundImage: 'url(images/img-1.jpg)' }}
+                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
                       <h3>
-                        <a href='work.html'>Work 01</a>
+                        <a href='work.html'>Eat-Da-Burger App </a>
                       </h3>
-                      <span>Website</span>
+                      <span>
+                        A restaurant app that lets users input the names of
+                        burgers they'd like to eat.
+                        <br></br>{' '}
+                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                          {' '}
+                          Click here to view the App on{' '}
+                          <span class='icon-eye'></span>Heroku
+                        </a>
+                      </span>
                       <p className='icon'>
                         <span>
-                          <a href='#'>
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-eye' /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-heart' /> 49
+                          <a href='https://github.com/jinxdoll/burger'>
+                            Click here to go to the{' '}
+                            <i className='icon-github' />
+                            Github repository
                           </a>
                         </span>
                       </p>
@@ -228,7 +230,7 @@ export default class Projects extends Component {
                   </div>
                 </div>
               </div>
-            </div>           
+            </div>
           </div>
         </section>
       </div>
