@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+
 export default class About extends Component {
   render() {
     return (
       <>
+
       <div>
         <div>
           <section className='colorlib-about' data-section='about'>
@@ -60,7 +62,7 @@ export default class About extends Component {
                     <h3>Web Development </h3>
                     <p>
                       I have experience building websites both for schooling and
-                      academic purposes but also just because IT SI FUN! The
+                      academic purposes but also just because IT IS FUN! The
                       website included technologies such as
                       JavaScript,React,HTML and CSS.
                     </p>
