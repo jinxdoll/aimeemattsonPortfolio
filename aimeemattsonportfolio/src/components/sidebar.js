@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Footer from '../components/footer';
+import Header from './header';
 
 export default class Sidebar extends Component {
   render() {
@@ -16,6 +17,7 @@ export default class Sidebar extends Component {
           <i />
         </nav>
         <aside id='colorlib-aside' className='border js-fullheight'>
+        <Header></Header>
           <div className='text-center'>
             <div
               className='author-img'
@@ -27,6 +29,7 @@ export default class Sidebar extends Component {
             <span className='email'>
               <i className='icon-mail'></i> amattson84@gmail.com
             </span>
+          
           </div>
           <nav id='colorlib-main-menu' role='navigation' className='navbar'>
             <div id='navbar' className='collapse'>
