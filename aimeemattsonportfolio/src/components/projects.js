@@ -23,8 +23,8 @@ export default class Projects extends Component {
                 data-animate-effect='fadeInLeft'
               >
                 <div
-                //   className='project'
-                //   style={{ backgroundImage: 'url(images/img-1.jpg)' }}
+                  className='project'
+                  style={{ backgroundImage: 'url(images/img-1.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
@@ -58,8 +58,8 @@ export default class Projects extends Component {
                 data-animate-effect='fadeInRight'
               >
                 <div
-                //   className='project'
-                //   style={{ backgroundImage: 'url(images/img-2.jpg)' }}
+                  className='project'
+                  style={{ backgroundImage: 'url(images/img-2.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
@@ -93,8 +93,8 @@ export default class Projects extends Component {
                 data-animate-effect='fadeInTop'
               >
                 <div
-                //   className='project'
-                //   style={{ backgroundImage: 'url(images/img-3.jpg)' }}
+                  className='project'
+                  style={{ backgroundImage: 'url(images/img-3.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
@@ -128,8 +128,8 @@ export default class Projects extends Component {
                 data-animate-effect='fadeInBottom'
               >
                 <div
-                //   className='project'
-                //   style={{ backgroundImage: 'url(images/img-4.jpg)' }}
+                  className='project'
+                  style={{ backgroundImage: 'url(images/img-4.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
@@ -163,8 +163,8 @@ export default class Projects extends Component {
                 data-animate-effect='fadeInLeft'
               >
                 <div
-                //   className='project'
-                //   style={{ backgroundImage: 'url(images/img-5.jpg)' }}
+                  className='project'
+                  style={{ backgroundImage: 'url(images/img-5.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
@@ -198,8 +198,8 @@ export default class Projects extends Component {
                 data-animate-effect='fadeInRight'
               >
                 <div
-                //   className='project'
-                //   style={{ backgroundImage: 'url(images/img-6.jpg)' }}
+                  className='project'
+                  style={{ backgroundImage: 'url(images/img-6.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
