@@ -16,21 +16,21 @@ export default class Introduction extends Component {
 
                 <p>
                   <a
-                    className='btn btn-primary btn-learn'
-                    href='https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing'
+                    className='btn btn-primary btn-learn btn-small'
+                    href='https://docs.google.com/document/d/e/2PACX-1vQswLxWVZWUZUAKre6VoZRbGJ4KWyNPmCkDlN4N6rWUjYHPNkEVu7jRTDwEGpzZRKhMIqH36VQaFMHg/pub'
                     target='_blank'
                     rel='noopener noreferrer'
                   >
-                    View CV
+                    View My Resume
                     <i className='icon-download4' />
                   </a>
                   <a
-                  className='btn btn-primary btn-learn'
+                  className='btn btn-primary btn-learn btn-small'
                   href='https://github.com/jinxdoll'
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  View My Projects <i className='icon-briefcase3' />
+                  View All My Projects <i className='icon-briefcase3' />
                 </a>
                 </p>
               
