@@ -6,6 +6,7 @@ import About from './components/about';
 import Timeline from './components/timeline';
 import Projects from './components/projects';
 import Footer from  './components/footer';
+import Header from  './components/header';
 
 class App extends Component {
   render() {
@@ -15,11 +16,15 @@ class App extends Component {
          	<Sidebar></Sidebar>
 				<div id="colorlib-main">
 				
-					<About></About>
-					<Timeline></Timeline>
-          <Projects></Projects>
-          <Introduction></Introduction>
+					
+          <About></About>
+                   					<Timeline></Timeline>        
+               
+        <Projects></Projects>
+        Reminder: <Header></Header>
+          <Introduction></Introduction>         
           <Footer></Footer>
+        
           	</div>
       	</div>
       </div>
