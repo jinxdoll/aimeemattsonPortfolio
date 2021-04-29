@@ -19,6 +19,9 @@ export default class Projects extends Component {
               </div>
             </div>
             <div className='row'>
+
+
+
               <div
                 className='col-md-4 animate-box'
                 data-animate-effect='fadeInLeft'
@@ -35,17 +38,163 @@ export default class Projects extends Component {
                       <span>
                         A restaurant app that lets users input the names of
                         burgers they'd like to eat.
-                        <br></br>{' '}
+                        <br></br>
                         <a href='https://devour-burger-app-mattson.herokuapp.com/'>
-                          {' '}
-                          Click here to view the App on{' '}
+                          
+                          Click here to view the App on
                           <span class='icon-eye'></span>Heroku
                         </a>
                       </span>
                       <p className='icon'>
                         <span>
                           <a href='https://github.com/jinxdoll/burger'>
-                            Click here to go to the{' '}
+                            Click here to go to the 
+                            <i className='icon-github' />
+                            Github repository
+                          </a>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+              <div
+                className='col-md-4 animate-box'
+                data-animate-effect='fadeInRight'
+              >
+                    <div
+                  className='project'
+                  style={{ backgroundImage: 'url(images/recipebook.jpg)' }}
+                >
+                  <div className='desc'>
+                    <div className='con'>
+                      <h3>
+                        <a href='work.html'>Everyday Recipes </a>
+                      </h3>
+                      <span>
+                      An easy to use recipe app that stores and edits all teh recipes you love.The app is designed, tried and tested by developers and users alike who are every day home cooks.
+                        <br></br>
+                        <a href='https://my-favorite-recipes-app-portla.herokuapp.com/'>
+                          
+                          Click here to view the App on
+                          <span class='icon-eye'></span>Heroku
+                        </a>
+                      </span>
+                      <p className='icon'>
+                        <span>
+                          <a href='https://github.com/jinxdoll/my-favorite-recipes-app'>
+                            Click here to go to the 
+                            <i className='icon-github' />
+                            Github repository
+                          </a>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className='col-md-4 animate-box'
+                data-animate-effect='fadeInTop'
+              >
+                    <div
+                  className='project'
+                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                >
+                  <div className='desc'>
+                    <div className='con'>
+                      <h3>
+                        <a href='work.html'>Eat-Da-Burger App </a>
+                      </h3>
+                      <span>
+                        A restaurant app that lets users input the names of
+                        burgers they'd like to eat.
+                        <br></br>
+                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                          
+                          Click here to view the App on
+                          <span class='icon-eye'></span>Heroku
+                        </a>
+                      </span>
+                      <p className='icon'>
+                        <span>
+                          <a href='https://github.com/jinxdoll/burger'>
+                            Click here to go to the
+                            <i className='icon-github' />
+                            Github repository
+                          </a>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className='col-md-4 animate-box'
+                data-animate-effect='fadeInBottom'
+              >
+                   <div
+                  className='project'
+                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                >
+                  <div className='desc'>
+                    <div className='con'>
+                      <h3>
+                        <a href='work.html'>Eat-Da-Burger App </a>
+                      </h3>
+                      <span>
+                        A restaurant app that lets users input the names of
+                        burgers they'd like to eat.
+                        <br></br>
+                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                          
+                          Click here to view the App on
+                          <span class='icon-eye'></span>Heroku
+                        </a>
+                      </span>
+                      <p className='icon'>
+                        <span>
+                          <a href='https://github.com/jinxdoll/burger'>
+                            Click here to go to the
+                            <i className='icon-github' />
+                            Github repository
+                          </a>
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className='col-md-4 animate-box'
+                data-animate-effect='fadeInLeft'
+              >
+                   <div
+                  className='project'
+                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                >
+                  <div className='desc'>
+                    <div className='con'>
+                      <h3>
+                        <a href='work.html'>Eat-Da-Burger App </a>
+                      </h3>
+                      <span>
+                        A restaurant app that lets users input the names of
+                        burgers they'd like to eat.
+                        <br></br>
+                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                          
+                          Click here to view the App on
+                          <span class='icon-eye'></span>Heroku
+                        </a>
+                      </span>
+                      <p className='icon'>
+                        <span>
+                          <a href='https://github.com/jinxdoll/burger'>
+                            Click here to go to the
                             <i className='icon-github' />
                             Github repository
                           </a>
@@ -59,170 +208,31 @@ export default class Projects extends Component {
                 className='col-md-4 animate-box'
                 data-animate-effect='fadeInRight'
               >
-                <div
+                   <div
                   className='project'
-                  style={{ backgroundImage: 'url(images/img-2.jpg)' }}
+                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
                       <h3>
-                        <a href='work.html'>Work 02</a>
+                        <a href='work.html'>Eat-Da-Burger App </a>
                       </h3>
-                      <span>Animation</span>
+                      <span>
+                        A restaurant app that lets users input the names of
+                        burgers they'd like to eat.
+                        <br></br>
+                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                          
+                          Click here to view the App on
+                          <span class='icon-eye'></span>Heroku
+                        </a>
+                      </span>
                       <p className='icon'>
                         <span>
-                          <a href='#'>
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-eye' /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-heart' /> 49
-                          </a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className='col-md-4 animate-box'
-                data-animate-effect='fadeInTop'
-              >
-                <div
-                  className='project'
-                  style={{ backgroundImage: 'url(images/img-3.jpg)' }}
-                >
-                  <div className='desc'>
-                    <div className='con'>
-                      <h3>
-                        <a href='work.html'>Work 03</a>
-                      </h3>
-                      <span>Illustration</span>
-                      <p className='icon'>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-eye' /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-heart' /> 49
-                          </a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className='col-md-4 animate-box'
-                data-animate-effect='fadeInBottom'
-              >
-                <div
-                  className='project'
-                  style={{ backgroundImage: 'url(images/img-4.jpg)' }}
-                >
-                  <div className='desc'>
-                    <div className='con'>
-                      <h3>
-                        <a href='work.html'>Work 04</a>
-                      </h3>
-                      <span>Application</span>
-                      <p className='icon'>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-eye' /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-heart' /> 49
-                          </a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className='col-md-4 animate-box'
-                data-animate-effect='fadeInLeft'
-              >
-                <div
-                  className='project'
-                  style={{ backgroundImage: 'url(images/img-5.jpg)' }}
-                >
-                  <div className='desc'>
-                    <div className='con'>
-                      <h3>
-                        <a href='work.html'>Work 05</a>
-                      </h3>
-                      <span>Graphic, Logo</span>
-                      <p className='icon'>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-eye' /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-heart' /> 49
-                          </a>
-                        </span>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div
-                className='col-md-4 animate-box'
-                data-animate-effect='fadeInRight'
-              >
-                <div
-                  className='project'
-                  style={{ backgroundImage: 'url(images/img-6.jpg)' }}
-                >
-                  <div className='desc'>
-                    <div className='con'>
-                      <h3>
-                        <a href='work.html'>Work 06</a>
-                      </h3>
-                      <span>Web Design</span>
-                      <p className='icon'>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-share3' />
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-eye' /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href='#'>
-                            <i className='icon-heart' /> 49
+                          <a href='https://github.com/jinxdoll/burger'>
+                            Click here to go to the
+                            <i className='icon-github' />
+                            Github repository
                           </a>
                         </span>
                       </p>
