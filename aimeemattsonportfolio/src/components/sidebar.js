@@ -107,9 +107,10 @@ export default class Sidebar extends Component {
             <p>
               <small>
                 Made with <i className='icon-heart' aria-hidden='true' /> and{' '}
-                <i className='icon-beer' aria-hidden='true'></i>
+                <i className='icon-beer' aria-hidden='true'></i>       
               </small>
             </p>
+       
           </div>
         </aside>
       </div>
