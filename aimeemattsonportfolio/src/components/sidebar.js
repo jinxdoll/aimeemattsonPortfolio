@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Footer from '../components/footer';
 
 export default class Sidebar extends Component {
   render() {
@@ -103,15 +104,9 @@ export default class Sidebar extends Component {
               </li>
             </ul>
           </nav>
-          <div className='colorlib-footer'>
-            <p>
-              <small>
-                Made with <i className='icon-heart' aria-hidden='true' /> and{' '}
-                <i className='icon-beer' aria-hidden='true'></i>       
-              </small>
-            </p>
+          <Footer>       
        
-          </div>
+          </Footer>
         </aside>
       </div>
     );
