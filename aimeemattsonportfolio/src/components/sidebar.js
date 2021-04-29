@@ -31,23 +31,23 @@ export default class Sidebar extends Component {
             <div id='navbar' className='collapse'>
               <ul>
                 <li className='active'>
-                  <a href='#home' data-nav-section='home'>
+                  <a href='./introduction.js' data-nav-section='./introduction'>
                     Introduction
                   </a>
                 </li>
                 <li>
-                  <a href='#about' data-nav-section='about'>
+                  <a href='./about.js' data-nav-section='./about'>
                     About
                   </a>
                 </li>
                 <li>
-                  <a href='#projects' data-nav-section='projects'>
+                  <a href='./projects.js' data-nav-section='./projects'>
                     Projects
                   </a>
                 </li>
                 {/* <li><a href="#" data-nav-section="blog">Blog</a></li> */}
                 <li>
-                  <a href='#timeline' data-nav-section='timeline'>
+                  <a href='./timeline.js' data-nav-section='./timeline'>
                     Timeline
                   </a>
                 </li>
