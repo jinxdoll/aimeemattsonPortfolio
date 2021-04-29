@@ -102,26 +102,25 @@ export default class Projects extends Component {
               >
                     <div
                   className='project'
-                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                  style={{ backgroundImage: 'url(images/television.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
                       <h3>
-                        <a href='work.html'>Eat-Da-Burger App </a>
+                        <a href='work.html'>Entertainment Guide </a>
                       </h3>
                       <span>
-                        A restaurant app that lets users input the names of
-                        burgers they'd like to eat.
+                      A fully responsive application that acts as a entertainment guide to provide movie and television show information using the OMDB API. Search results include active status, scheduled showtime, network and channel info., etc.
                         <br></br>
-                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                        {/* <a href='https://devour-burger-app-mattson.herokuapp.com/'>
                           
                           Click here to view the App on
                           <span class='icon-eye'></span>Heroku
-                        </a>
+                        </a> */}
                       </span>
                       <p className='icon'>
                         <span>
-                          <a href='https://github.com/jinxdoll/burger'>
+                          <a href='https://github.com/kytaylor/entertainment-guide'>
                             Click here to go to the
                             <i className='icon-github' />
                             Github repository
@@ -138,18 +137,17 @@ export default class Projects extends Component {
               >
                    <div
                   className='project'
-                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                  style={{ backgroundImage: 'url(images/moodring.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
                       <h3>
-                        <a href='work.html'>Eat-Da-Burger App </a>
+                        <a href='work.html'>Mood Ring App </a>
                       </h3>
                       <span>
-                        A restaurant app that lets users input the names of
-                        burgers they'd like to eat.
+                      The Mood Ring App uses facial recognition technology to capture your expression and then reads your mood. The app then provides related content to help boost or enhance your mood based on the mood read.  
                         <br></br>
-                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                        <a href='https://github.com/haywah27/mood-ring/blob/master/moody-ring.herokuapp.com'>
                           
                           Click here to view the App on
                           <span class='icon-eye'></span>Heroku
@@ -157,7 +155,7 @@ export default class Projects extends Component {
                       </span>
                       <p className='icon'>
                         <span>
-                          <a href='https://github.com/jinxdoll/burger'>
+                          <a href='https://github.com/haywah27/mood-ring'>
                             Click here to go to the
                             <i className='icon-github' />
                             Github repository
@@ -174,18 +172,17 @@ export default class Projects extends Component {
               >
                    <div
                   className='project'
-                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                  style={{ backgroundImage: 'url(images/fitness.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
                       <h3>
-                        <a href='work.html'>Eat-Da-Burger App </a>
+                        <a href='work.html'>workout App </a>
                       </h3>
                       <span>
-                        A restaurant app that lets users input the names of
-                        burgers they'd like to eat.
+                      Keep track of your daily exercise with this fitness application. You can track your daily workout routines.Create and save customized workouts.
                         <br></br>
-                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                        <a href='https://workout-app-mongodb.herokuapp.com/'>
                           
                           Click here to view the App on
                           <span class='icon-eye'></span>Heroku
@@ -193,7 +190,7 @@ export default class Projects extends Component {
                       </span>
                       <p className='icon'>
                         <span>
-                          <a href='https://github.com/jinxdoll/burger'>
+                          <a href='https://github.com/jinxdoll/Workout-App'>
                             Click here to go to the
                             <i className='icon-github' />
                             Github repository
@@ -210,18 +207,17 @@ export default class Projects extends Component {
               >
                    <div
                   className='project'
-                  style={{ backgroundImage: 'url(images/burger.jpg)' }}
+                  style={{ backgroundImage: 'url(images/weather.jpg)' }}
                 >
                   <div className='desc'>
                     <div className='con'>
                       <h3>
-                        <a href='work.html'>Eat-Da-Burger App </a>
+                        <a href='work.html'>How's the weather? App </a>
                       </h3>
                       <span>
-                        A restaurant app that lets users input the names of
-                        burgers they'd like to eat.
+                      Responsive application built using React that uses the openWeatherApi to retrieve weather data for the city the user inputs.
                         <br></br>
-                        <a href='https://devour-burger-app-mattson.herokuapp.com/'>
+                        <a href='https://react-hows-the-weather-app.herokuapp.com/'>
                           
                           Click here to view the App on
                           <span class='icon-eye'></span>Heroku
@@ -229,7 +225,7 @@ export default class Projects extends Component {
                       </span>
                       <p className='icon'>
                         <span>
-                          <a href='https://github.com/jinxdoll/burger'>
+                          <a href='https://github.com/jinxdoll/react-HowsTheWeather/tree/main/howstheweather'>
                             Click here to go to the
                             <i className='icon-github' />
                             Github repository
