@@ -37,12 +37,12 @@ Application enabled using the following sources:
 
 ## Deployment
 
-[Heroku](https://aimeemattsonportfolio.herokuapp.com/)
+[Github Pages]( https://jinxdoll.github.io/aimeemattsonPortfolio/)
 
 ### Author
 
 - [Aimee Mattson](https://github.com/jinxdoll/aimeemattsonPortfolio)
-- [Portfolio](https://github.com/jinxdoll/aimeemattsonPortfolio)
+- [Portfolio]( https://jinxdoll.github.io/aimeemattsonPortfolio/)
 - [LinkedIn](https://www.linkedin.com/in/aimee-mattson)
 
 ### Questions?
