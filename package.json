@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/jinxdoll/aimeemattsonPortfolio/issues"
   },
-  "homepage": "https://jinxdoll.github.io",
+  "homepage": " https://jinxdoll.github.io/aimeemattsonPortfolio/",
   "dependencies": {
     "axe-core": "^4.2.0",
     "gh-pages": "^3.1.0",
